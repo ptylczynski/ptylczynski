@@ -7,7 +7,7 @@
   I'm passionate fullstack developer and DevOps form Poland 🇵🇱. I have hands on Spring Angular stack. Since mid 2020 I'm developing <b><i>item-server</i></b> project. Currently I'm doing my CS Bsc at <a href="https://www.put.poznan.pl/" target="_blank">PUT</a>. After hours I'm also sysadmin developing & maintaining my server-cluster based on *nix.
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ptylczynski&count_private=true&hide=stars&show_icons=true&hide_border=true&custom_title=Github%20Stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=ptylczynski&count_private=true&hide=stars&show_icons=true&hide_border=true&custom_title="></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptylczynski&layout=compact&hide_border=true"></img>
 <!--
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"></img>
