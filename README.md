@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  I'm passionate <b>DevOps/SysOps</b> and fullstack form Poland 🇵🇱. I have hands on K8s clusters as well Spring Angular stack. Since mid 2020 I'm developing <b><i>item-server</i></b> project. Currently I'm on my CS Bsc at <a href="https://www.put.poznan.pl/" target="_blank">PUT</a>. After hours I'm sysadmin developing & maintaining my server-cluster based on *nix.
+  I'm passionate <b>DevOps/SysOps</b> and fullstack from Poland 🇵🇱. I have hands on K8s clusters as well Spring Angular stack. Since mid 2020 I'm developing <b><i>item-server</i></b> project. Currently I'm on my CS Bsc at <a href="https://www.put.poznan.pl/" target="_blank">PUT</a>. After hours I'm sysadmin developing & maintaining my server-cluster based on *nix.
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ptylczynski&count_private=true&hide=stars&show_icons=true&hide_border=true&custom_title="></img>
