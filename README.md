@@ -5,7 +5,7 @@
 
 <p align="center">
   I'm passionate <b>DevOps/SysOps</b> and <b>Fullstack</b> from Poland 🇵🇱.<br>
-  For most of a time I work with K8s clusters and Spring Angular stack.<br>
+  For most of a time I work with K8s clusters and <b>Spring Angular</b> stack.<br>
   Since mid 2020 I'm developing <b><i>item-server</i></b> project and on early 2021 I have started <b><i>SOT</i></b> project.<br>
   Currently I'm on my CS Bsc at <a href="https://www.put.poznan.pl/" target="_blank">PUT</a>.<br>
   After hours I'm sysadmin developing & maintaining my <b><i>own server-cluster</i></b> based on *nix.
