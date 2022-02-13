@@ -3,34 +3,4 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 
-<p align="center">
-  I'm professional <b>Java Backed</b> dev from Poland 🇵🇱.<br>
-  For most of a time I work with K8s clusters and <b>Spring</b> stack.<br>
-  Since mid 2020 I'm developing <b><i>item-server</i></b> project and on early 2021 I have started <b><i>SOT</i></b> project and swiftly moved towards <b><i>DACE</i></b> project.<br>
-  Currently I'm on my CS Bsc at <a href="https://www.put.poznan.pl/" target="_blank">PUT</a>.<br>
-  After hours I'm sysadmin developing & maintaining my <b><i>own server-cluster</i></b> based on *nix.
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ptylczynski&count_private=true&hide=stars&show_icons=true&hide_border=true&custom_title="></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptylczynski&layout=compact&hide_border=true&custom_title="></img>
-<!--
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"></img>
---->
-
-
-<img src="https://img.shields.io/badge/OS-Ubuntu-blue?logo=ubuntu&style=for-the-badge&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blue?logo=IntelliJ%20Idea&style=for-the-badge&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Language-Java-blue?logo=Java&style=for-the-badge"></img>
-<img src="https://img.shields.io/badge/Framework-Spring-blue?logo=Spring&style=for-the-badge&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Framework-Angular-blue?logo=Angular&style=for-the-badge&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Framework-Bootstrapr-blue?logo=Bootstrap&style=for-the-badge&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Shell-Bash-blue?logo=GNU%20BASH&style=for-the-badge&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Tool-Postman-blue?logo=Postman&style=for-the-badge&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Tool-MySQL-blue?logo=MySQL&style=for-the-badge&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Tool-Docker-blue?logo=Docker&style=for-the-badge&logoColor=white"></img>
-<br>
-<p align="center">
-  <a href="https://hub.docker.com/u/ptylczynski">
-    <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png"></img>
-  </a>                                                                                                                                  
-</p>
+![Metrics](https://metrics.lecoq.io/ptylczynski?template=classic&isocalendar=1&languages=1&habits=1&people=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=true&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&repositories.featured=engineering-diploma%2Fpov-server%2C%20oai-explorer&config.timezone=Europe%2FWarsaw)
